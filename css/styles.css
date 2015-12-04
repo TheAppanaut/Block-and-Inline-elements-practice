@@ -1,0 +1,32 @@
+h1 {
+  color: #114511;
+  text-align: center;
+}
+
+h2 {
+  text-align:center;
+  font-style: italic;
+}
+
+p {
+  font-family: sans-serif;
+  line-height: 40px;
+}
+
+img {
+  width: 400px;
+  height: 200px;
+}
+
+body {
+  text-align: center;
+  line-height: 30px;
+}
+
+ul {
+  list-style: none;
+}
+
+ol {
+  text-align: left;
+}
